@@ -5,4 +5,6 @@ I am following Siraj Raval's video here:
 https://www.youtube.com/watch?v=-_Qs0XdPpw8
 and it says that the code is available in
 https://github.com/llSourcell/ethereum_demo
+please clode this code first, then go to that directory
+and follow Siraj's video.
 
